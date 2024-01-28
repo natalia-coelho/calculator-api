@@ -16,6 +16,18 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+builder.Services.AddCors(options => 
+{
+    options.AddPolicy("ReactPolicy", builder =>
+    {
+        builder.WithOrigins("http://localhost:3000") //Substituir pelo endereço do app react 
+                .AllowAnyHeader()
+                .AllowAnyMethod();
+    });
+});
+
+app.UseCors("ReactPolicy");
+
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
