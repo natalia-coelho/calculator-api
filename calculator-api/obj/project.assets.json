@@ -474,11 +474,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\projects\\CalculatorAPI\\CalculatorAPI.csproj",
+      "projectUniqueName": "C:\\dev\\projects\\calculator-app\\calculator-api\\CalculatorAPI.csproj",
       "projectName": "CalculatorAPI",
-      "projectPath": "C:\\dev\\projects\\CalculatorAPI\\CalculatorAPI.csproj",
+      "projectPath": "C:\\dev\\projects\\calculator-app\\calculator-api\\CalculatorAPI.csproj",
       "packagesPath": "C:\\Users\\natal\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\projects\\CalculatorAPI\\obj\\",
+      "outputPath": "C:\\dev\\projects\\calculator-app\\calculator-api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\natal\\AppData\\Roaming\\NuGet\\NuGet.Config",

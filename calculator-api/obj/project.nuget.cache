@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5eVX7DGkqB9AvKmNj2zReFAjejfhKiFriZm9js0BPc/p15hq6PRlXDh9dBtrLuc62MT/SBDFt1Wdx5iuLIFN5g==",
+  "dgSpecHash": "0jFoIYVWTpFD4Tc2/PVnQCF8Nyj56r/VhkmgN+E72DiHRXlcutw9ouWOoC2+xoVRI43AQvNYEKJ8hurUUOUZGw==",
   "success": true,
-  "projectFilePath": "C:\\dev\\projects\\CalculatorAPI\\CalculatorAPI.csproj",
+  "projectFilePath": "C:\\dev\\projects\\calculator-app\\calculator-api\\CalculatorAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\natal\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
     "C:\\Users\\natal\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
