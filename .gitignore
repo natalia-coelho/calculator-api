@@ -1,1 +1,8 @@
 calculator-react\node_modules
+readme.md
+calculator-api/bin/
+calculator-api/obj/
+calculator-api/.vs/
+calculator-api/obj/Debug/
+calculator-api/obj/Debug/net7.0/CalculatorAPI.GeneratedMSBuildEditorConfig.editorconfig
+calculator-api/obj/
